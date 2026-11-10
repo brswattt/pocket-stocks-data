@@ -1,1 +1,1 @@
-{"annual":{"net_income":[[2022,0],[2023,3296064],[2024,4247564],[2025,-1098247]],"revenue":[[2022,0],[2023,0],[2024,0],[2025,0]]},"chk":["book_per_share"],"current_ratio":0.0191,"fb":["roe"],"roe":-58.8004,"src":"sec","years_dividends":0}
+{"annual":{"net_income":[[2022,0],[2023,3296064],[2024,4247564],[2025,-1098247]],"revenue":[[2022,0],[2023,0],[2024,0],[2025,0]]},"book_per_share":-0.1035,"current_ratio":0.0191,"fb":["roe","book_per_share"],"roe":-58.8004,"src":"sec","years_dividends":0}
