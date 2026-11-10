@@ -1,0 +1,7317 @@
+{
+"1000184": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-26"
+},
+"1000275": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-03: no ADS mentioned"
+},
+"1000377": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1001085": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-18: no ADS mentioned"
+},
+"1001290": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-27: no ADS mentioned"
+},
+"1001500": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1001807": {
+"checked": "2026-11-10",
+"ratio": 100.0,
+"src": "20-F 2026-05-15"
+},
+"1002242": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-23"
+},
+"1002366": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1002788": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1004315": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-06-03"
+},
+"1009001": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-19: no ADS mentioned"
+},
+"1009922": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30: no ADS mentioned"
+},
+"1012037": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1013131": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30"
+},
+"1013605": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-09: no ADS mentioned"
+},
+"1015647": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-19: no ADS mentioned"
+},
+"1015650": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-29: ADS ratio not found"
+},
+"1017413": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "40-F 2026-03-26: ADS ratio not found"
+},
+"1018735": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-09-29: no ADS mentioned"
+},
+"1019742": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1022837": {
+"checked": "2026-11-10",
+"ratio": 0.6,
+"src": "20-F 2026-06-26"
+},
+"1023109": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2014-08-29: no ADS mentioned"
+},
+"1023512": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-10-02"
+},
+"1023514": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-10-30"
+},
+"1023549": {
+"checked": "2026-11-10",
+"ratio": 100.0,
+"src": "20-F 2026-06-30"
+},
+"1026980": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-29: no ADS mentioned"
+},
+"1027552": {
+"checked": "2026-11-10",
+"ratio": 400.0,
+"src": "20-F 2026-02-27"
+},
+"1028357": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1029974": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1030894": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2024-03-11: ADS ratio not found"
+},
+"1030997": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-24: no ADS mentioned"
+},
+"1033767": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-04-30"
+},
+"1034957": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-10-21"
+},
+"1034983": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2017-07-26: ADS ratio not found"
+},
+"1038143": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2024-03-29"
+},
+"1038683": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-06-22"
+},
+"1039610": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F/A 2006-07-17"
+},
+"1039765": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-26: ADS ratio not found"
+},
+"1041668": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F/A 2024-05-28: ADS ratio not found"
+},
+"1041792": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-04-16"
+},
+"1045520": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-04: no ADS mentioned"
+},
+"1045986": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-13"
+},
+"1046179": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-04-16"
+},
+"1047716": {
+"checked": "2026-11-10",
+"ratio": 2000.0,
+"src": "20-F 2026-03-05"
+},
+"1049659": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30"
+},
+"1049724": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1061574": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-17: no ADS mentioned"
+},
+"1061612": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2008-07-15: no ADS mentioned"
+},
+"1061736": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-24: ADS ratio not found"
+},
+"1061894": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "40-F 2026-02-26: ADS ratio not found"
+},
+"1062066": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2004-06-17"
+},
+"1063259": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-30: no ADS mentioned"
+},
+"1065521": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1066119": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-02-24"
+},
+"1066130": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-08-12: ADS ratio not found"
+},
+"1067318": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2010-03-03: ADS ratio not found"
+},
+"1067491": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-15"
+},
+"1069336": {
+"checked": "2026-11-10",
+"ratio": 2959261.0,
+"src": "20-F 2007-04-23"
+},
+"1070304": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-22"
+},
+"1071321": {
+"checked": "2026-11-10",
+"ratio": 2.5,
+"src": "20-F 2026-04-17"
+},
+"1071438": {
+"checked": "2026-11-10",
+"ratio": 72847538.0,
+"src": "20-F 2026-04-20"
+},
+"1073404": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-13: ADS ratio not found"
+},
+"1075124": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-05: no ADS mentioned"
+},
+"1075822": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1075880": {
+"checked": "2026-11-10",
+"ratio": 100.0,
+"src": "20-F 2025-11-07"
+},
+"1076378": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-24: ADS ratio not found"
+},
+"1077640": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2008-03-26: no ADS mentioned"
+},
+"1078716": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1085921": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-20: no ADS mentioned"
+},
+"1086888": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-11: no ADS mentioned"
+},
+"1087711": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-12: no ADS mentioned"
+},
+"1089113": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-02-26"
+},
+"1091223": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-23"
+},
+"1094324": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-26"
+},
+"1094517": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-06-10"
+},
+"1094972": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-05-19"
+},
+"1095052": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-11-26: no ADS mentioned"
+},
+"1095435": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-08-06: no ADS mentioned"
+},
+"1096056": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2018-03-19"
+},
+"1097362": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-12: no ADS mentioned"
+},
+"1103838": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-07-20"
+},
+"1106215": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1107457": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2010-05-18"
+},
+"1108329": {
+"checked": "2026-11-10",
+"ratio": 100.0,
+"src": "20-F/A 2024-06-03"
+},
+"1110646": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-04-15"
+},
+"1113152": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1113260": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2015-11-04: no ADS mentioned"
+},
+"1113423": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-25: no ADS mentioned"
+},
+"1114448": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-04"
+},
+"1114700": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-16"
+},
+"1116578": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-26"
+},
+"1119639": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-09"
+},
+"1121404": {
+"checked": "2026-11-10",
+"ratio": 0.5,
+"src": "20-F 2026-02-17"
+},
+"1122411": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-01"
+},
+"1123134": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-14"
+},
+"1123267": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2008-12-15: no ADS mentioned"
+},
+"1123452": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-16"
+},
+"1123658": {
+"checked": "2026-11-10",
+"ratio": 100.0,
+"src": "20-F/A 2023-11-24"
+},
+"1123799": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-02"
+},
+"1126113": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F/A 2006-06-29"
+},
+"1127248": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-23: no ADS mentioned"
+},
+"1129137": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-28"
+},
+"1129928": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-03-07: no ADS mentioned"
+},
+"1131343": {
+"checked": "2026-11-10",
+"ratio": 12.0,
+"src": "20-F 2026-08-28"
+},
+"1131383": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-25: no ADS mentioned"
+},
+"1131399": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-06"
+},
+"1132597": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30"
+},
+"1132924": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-15"
+},
+"1133519": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-24: no ADS mentioned"
+},
+"1135951": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-29"
+},
+"1136808": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2007-03-07"
+},
+"1140022": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2016-03-29"
+},
+"1140625": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-19"
+},
+"1142231": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1144800": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-27: no ADS mentioned"
+},
+"1144967": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-07-29"
+},
+"1157557": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-17"
+},
+"1158399": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2022-08-01: no ADS mentioned"
+},
+"1158838": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2015-06-25"
+},
+"1159508": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-12: ADS ratio not found"
+},
+"1160106": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-02-13"
+},
+"1160330": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-25"
+},
+"1161125": {
+"checked": "2026-11-10",
+"ratio": 200.0,
+"src": "20-F 2026-04-30"
+},
+"1161611": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F/A 2024-01-24: ADS ratio not found"
+},
+"1161814": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-30: no ADS mentioned"
+},
+"1163420": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1163560": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-09-11"
+},
+"1163653": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-22"
+},
+"1164771": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-09-15: no ADS mentioned"
+},
+"1167379": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-24: no ADS mentioned"
+},
+"1168981": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-02: no ADS mentioned"
+},
+"1169486": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2006-09-27"
+},
+"1169760": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1170858": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-29"
+},
+"1172724": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-30"
+},
+"1173382": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-06-22: no ADS mentioned"
+},
+"1173643": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-01: no ADS mentioned"
+},
+"1174511": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1175596": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-07-28: no ADS mentioned"
+},
+"1178526": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1178819": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-26: no ADS mentioned"
+},
+"1179821": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-07-21: no ADS mentioned"
+},
+"1190723": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-31"
+},
+"1191070": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2024-01-17: no ADS mentioned"
+},
+"1191832": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2008-06-26: no ADS mentioned"
+},
+"1199392": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2018-05-08: no ADS mentioned"
+},
+"1203464": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-18: no ADS mentioned"
+},
+"1221029": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-04-28"
+},
+"1231346": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-27: no ADS mentioned"
+},
+"1232384": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-13: no ADS mentioned"
+},
+"1243429": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-06: ADS ratio not found"
+},
+"1254435": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1263043": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-22"
+},
+"1264136": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-22"
+},
+"1268896": {
+"checked": "2026-11-10",
+"ratio": 40.0,
+"src": "20-F 2023-04-21"
+},
+"1269238": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-28"
+},
+"1271554": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2023-03-31: no ADS mentioned"
+},
+"1277866": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-04-13: no ADS mentioned"
+},
+"1279495": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-05: no ADS mentioned"
+},
+"1279967": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1284237": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1285170": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-04-01: no ADS mentioned"
+},
+"1286973": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-04-02: no ADS mentioned"
+},
+"1288268": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2007-11-05: no ADS mentioned"
+},
+"1290109": {
+"checked": "2026-11-10",
+"ratio": 0.5,
+"src": "20-F 2026-04-28"
+},
+"1293135": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-04: no ADS mentioned"
+},
+"1296774": {
+"checked": "2026-11-10",
+"ratio": 300.0,
+"src": "20-F 2026-04-16"
+},
+"1301854": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1303523": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-13"
+},
+"1306965": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-12"
+},
+"1307926": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1308648": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"1309167": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1311307": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1313310": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-24"
+},
+"1317295": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1318596": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2008-04-17: no ADS mentioned"
+},
+"1319150": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-06-16: ADS ratio not found"
+},
+"1321851": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-01-30: no ADS mentioned"
+},
+"1322422": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-27: no ADS mentioned"
+},
+"1323404": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"1329099": {
+"checked": "2026-11-10",
+"ratio": 8.0,
+"src": "20-F 2026-03-17"
+},
+"1330306": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1331284": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-19: no ADS mentioned"
+},
+"1333141": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-24"
+},
+"1334388": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-19: no ADS mentioned"
+},
+"1335730": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-06-26"
+},
+"1336364": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2021-04-29: no ADS mentioned"
+},
+"1337090": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1339688": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2022-05-31: no ADS mentioned"
+},
+"1340677": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-06-30: no ADS mentioned"
+},
+"1341335": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-26: no ADS mentioned"
+},
+"1342325": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1342338": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-27"
+},
+"1342874": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-03-31"
+},
+"1345099": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-08-27"
+},
+"1345105": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-26: no ADS mentioned"
+},
+"1347408": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-01: no ADS mentioned"
+},
+"1347426": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-20: ADS ratio not found"
+},
+"1347557": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-17"
+},
+"1355444": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-03-30"
+},
+"1359519": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1362898": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2020-11-27: no ADS mentioned"
+},
+"1364125": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-26: no ADS mentioned"
+},
+"1364252": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1368519": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-12: no ADS mentioned"
+},
+"1368845": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1369085": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-09-23: no ADS mentioned"
+},
+"1370418": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1377757": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-12: no ADS mentioned"
+},
+"1378239": {
+"checked": "2026-11-10",
+"ratio": 8.0,
+"src": "20-F 2026-04-30"
+},
+"1383395": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-05-11"
+},
+"1384831": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1387473": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1389207": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2022-08-01"
+},
+"1390352": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1394039": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1394189": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1394832": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-05-28: no ADS mentioned"
+},
+"1395064": {
+"checked": "2026-11-10",
+"ratio": 0.5,
+"src": "20-F 2026-06-17"
+},
+"1395213": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-15"
+},
+"1396282": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1397616": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1398713": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1400438": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-04-02: no ADS mentioned"
+},
+"1402388": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-11: no ADS mentioned"
+},
+"1403870": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1406234": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-17: no ADS mentioned"
+},
+"1406944": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1407582": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1409036": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-04: ADS ratio not found"
+},
+"1412558": {
+"checked": "2026-11-10",
+"ratio": 0.5,
+"src": "20-F 2026-04-08"
+},
+"1413855": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-28"
+},
+"1415758": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1418149": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1419336": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1420049": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1420529": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-31"
+},
+"1420798": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1421642": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-27: no ADS mentioned"
+},
+"1421876": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-26"
+},
+"1422532": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1423210": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1423867": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1425061": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1427728": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1427901": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1429937": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-11: no ADS mentioned"
+},
+"1430162": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F/A 2026-10-15"
+},
+"1431852": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-30: no ADS mentioned"
+},
+"1432364": {
+"checked": "2026-11-10",
+"ratio": 500000.0,
+"src": "20-F 2026-04-03"
+},
+"1432588": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1433087": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1433309": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-15: ADS ratio not found"
+},
+"1434265": {
+"checked": "2026-11-10",
+"ratio": 0.1,
+"src": "20-F 2026-02-17"
+},
+"1436741": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1436778": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1437424": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-31: ADS ratio not found"
+},
+"1437441": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1437462": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1437672": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1437712": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1438569": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-17"
+},
+"1438656": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1439124": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-24"
+},
+"1440972": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-23: ADS ratio not found"
+},
+"1442620": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-09-30: ADS ratio not found"
+},
+"1442651": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1442655": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1444192": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2019-06-26: ADS ratio not found"
+},
+"1444406": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-30"
+},
+"1445162": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1445211": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1445214": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1445467": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-26: ADS ratio not found"
+},
+"1445476": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1445930": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-28"
+},
+"1446420": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1446519": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1446589": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1446596": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1446597": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1447100": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1447101": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1447108": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1447221": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1447391": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1447956": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1447960": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1448611": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1449664": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1450159": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1450468": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1451561": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1452492": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1453015": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-12: no ADS mentioned"
+},
+"1453932": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1454144": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1454147": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1454475": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1455632": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1456346": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-19: no ADS mentioned"
+},
+"1459334": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1460447": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1462885": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1463000": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-04-30: no ADS mentioned"
+},
+"1463978": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1464165": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-01: no ADS mentioned"
+},
+"1464591": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-31: ADS ratio not found"
+},
+"1468091": {
+"checked": "2026-11-10",
+"ratio": 25.0,
+"src": "20-F 2026-03-16"
+},
+"1468522": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-10-02: no ADS mentioned"
+},
+"1469059": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1469395": {
+"checked": "2026-11-10",
+"ratio": 25.0,
+"src": "20-F 2026-04-09"
+},
+"1470419": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1470683": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-01-29: no ADS mentioned"
+},
+"1471055": {
+"checked": "2026-11-10",
+"ratio": 36205005.0,
+"src": "20-F 2026-02-27"
+},
+"1472072": {
+"checked": "2026-11-10",
+"ratio": 30.0,
+"src": "20-F 2026-04-29"
+},
+"1472326": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-04-07: no ADS mentioned"
+},
+"1472466": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1472879": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1474968": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1475260": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-19: no ADS mentioned"
+},
+"1477049": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-13: no ADS mentioned"
+},
+"1477081": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-19: no ADS mentioned"
+},
+"1477201": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1479615": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2024-03-13"
+},
+"1481045": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1481513": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-04-29"
+},
+"1481857": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1483934": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-20: no ADS mentioned"
+},
+"1483994": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-24"
+},
+"1486749": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1487139": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1487615": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1489088": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1490078": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2024-07-08: no ADS mentioned"
+},
+"1493318": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-02: no ADS mentioned"
+},
+"1493507": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1494728": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-16: no ADS mentioned"
+},
+"1495153": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-07-27: ADS ratio not found"
+},
+"1495651": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1495730": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1496919": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1498403": {
+"checked": "2026-11-10",
+"ratio": 600.0,
+"src": "20-F/A 2026-03-27"
+},
+"1499494": {
+"checked": "2026-11-10",
+"ratio": 60000.0,
+"src": "20-F 2026-04-30"
+},
+"1499505": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-29: ADS ratio not found"
+},
+"1499543": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-04-29"
+},
+"1499780": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-16: no ADS mentioned"
+},
+"1499849": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-10-30"
+},
+"1500620": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1500881": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2024-03-28: no ADS mentioned"
+},
+"1503154": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1503812": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1504122": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1504764": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-17"
+},
+"1505065": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-20"
+},
+"1505880": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1506184": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-10-23"
+},
+"1506721": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1508475": {
+"checked": "2026-11-10",
+"ratio": 6.0,
+"src": "20-F 2026-04-16"
+},
+"1509397": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1509646": {
+"checked": "2026-11-10",
+"ratio": 48.0,
+"src": "20-F 2026-04-29"
+},
+"1509705": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1512920": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-19: no ADS mentioned"
+},
+"1514597": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"1516323": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1516534": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1516535": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1516536": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1516899": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-07-31: ADS ratio not found"
+},
+"1517399": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-04-08"
+},
+"1518542": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1519469": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"1520504": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-28: ADS ratio not found"
+},
+"1520556": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1524326": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1526125": {
+"checked": "2026-11-10",
+"ratio": 8.0,
+"src": "20-F 2026-04-29"
+},
+"1526243": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2021-04-07: no ADS mentioned"
+},
+"1526475": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-04-27: no ADS mentioned"
+},
+"1527038": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1527636": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-04-15"
+},
+"1529192": {
+"checked": "2026-11-10",
+"ratio": 0.2,
+"src": "20-F 2026-04-16"
+},
+"1529906": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1532173": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1532175": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1533082": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1533232": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-27: no ADS mentioned"
+},
+"1533546": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1534248": {
+"checked": "2026-11-10",
+"ratio": 80.0,
+"src": "20-F 2026-03-23"
+},
+"1534281": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1535628": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1535759": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1536196": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-26"
+},
+"1536787": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1536811": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1537137": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-30: no ADS mentioned"
+},
+"1537317": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1537543": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1538189": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1538847": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-27: no ADS mentioned"
+},
+"1539190": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-16: no ADS mentioned"
+},
+"1540042": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1541190": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1544379": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1544770": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1544883": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1545057": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1545224": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2023-03-16: no ADS mentioned"
+},
+"1545772": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-27: no ADS mentioned"
+},
+"1546066": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-27: no ADS mentioned"
+},
+"1546383": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-15: ADS ratio not found"
+},
+"1547452": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1547870": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1548901": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1548958": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1549107": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-09-24: no ADS mentioned"
+},
+"1549802": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-16"
+},
+"1550405": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1551468": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1553846": {
+"checked": "2026-11-10",
+"ratio": 10000.0,
+"src": "20-F 2026-04-27"
+},
+"1555815": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1555980": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1557440": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1557860": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-27: ADS ratio not found"
+},
+"1562294": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1562296": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1562805": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1562823": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1563411": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2024-03-18: ADS ratio not found"
+},
+"1564538": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-02-26: no ADS mentioned"
+},
+"1565025": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-03"
+},
+"1566073": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1567526": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1567529": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-11: no ADS mentioned"
+},
+"1569963": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1569964": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1570299": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1570843": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-01: no ADS mentioned"
+},
+"1574232": {
+"checked": "2026-11-10",
+"ratio": 6.0,
+"src": "20-F 2026-05-15"
+},
+"1574565": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-26: no ADS mentioned"
+},
+"1575356": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1577552": {
+"checked": "2026-11-10",
+"ratio": 8.0,
+"src": "20-F 2026-05-20"
+},
+"1577568": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1577783": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1578955": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1580110": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1580226": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1581285": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1583962": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1584273": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1584297": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1584392": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1584547": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-08-18: no ADS mentioned"
+},
+"1584549": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2019-04-11: no ADS mentioned"
+},
+"1588823": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-17: no ADS mentioned"
+},
+"1592049": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1592560": {
+"checked": "2026-11-10",
+"ratio": 250.0,
+"src": "20-F 2026-05-11"
+},
+"1593984": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-05: no ADS mentioned"
+},
+"1597095": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-20"
+},
+"1597835": {
+"checked": "2026-11-10",
+"ratio": 50.0,
+"src": "20-F 2026-04-23"
+},
+"1598599": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-01"
+},
+"1598655": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-19: no ADS mentioned"
+},
+"1599298": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2020-04-30"
+},
+"1600620": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2020-03-05: no ADS mentioned"
+},
+"1601936": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2025-04-30: ADS ratio not found"
+},
+"1601992": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1602842": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1604481": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-21: no ADS mentioned"
+},
+"1604982": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1605484": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-26: ADS ratio not found"
+},
+"1605755": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1607807": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1608401": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1609436": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1609804": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2019-03-08: ADS ratio not found"
+},
+"1610520": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-09: ADS ratio not found"
+},
+"1610601": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-28"
+},
+"1610820": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2021-11-16: no ADS mentioned"
+},
+"1611005": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-30: ADS ratio not found"
+},
+"1611746": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-08-19: no ADS mentioned"
+},
+"1611747": {
+"checked": "2026-11-10",
+"ratio": 4000.0,
+"src": "20-F 2026-04-01"
+},
+"1612042": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-11"
+},
+"1612940": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-12: ADS ratio not found"
+},
+"1613780": {
+"checked": "2026-11-10",
+"ratio": 0.5,
+"src": "20-F 2020-03-20"
+},
+"1613979": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1614744": {
+"checked": "2026-11-10",
+"ratio": 2000.0,
+"src": "20-F 2026-03-19"
+},
+"1614943": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1615903": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-24: ADS ratio not found"
+},
+"1616885": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1619544": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-30"
+},
+"1620678": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1620737": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-16: no ADS mentioned"
+},
+"1622629": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1625297": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2024-03-06: ADS ratio not found"
+},
+"1625414": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-23"
+},
+"1627272": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-30: no ADS mentioned"
+},
+"1627281": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-20"
+},
+"1628808": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2024-03-07: no ADS mentioned"
+},
+"1628935": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1629632": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1631487": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-26: ADS ratio not found"
+},
+"1631761": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-29"
+},
+"1634157": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1635327": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2020-02-27: no ADS mentioned"
+},
+"1635729": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1638097": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2021-03-18: no ADS mentioned"
+},
+"1639877": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-26: ADS ratio not found"
+},
+"1639920": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-10: ADS ratio not found"
+},
+"1641229": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-04-01: no ADS mentioned"
+},
+"1642178": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1643198": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1643303": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-05-12"
+},
+"1643918": {
+"checked": "2026-11-10",
+"ratio": 100000.0,
+"src": "20-F 2026-03-27"
+},
+"1644540": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1647435": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1648416": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-19: ADS ratio not found"
+},
+"1648512": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1648636": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-27: no ADS mentioned"
+},
+"1649009": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-05-26: no ADS mentioned"
+},
+"1649313": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-31: no ADS mentioned"
+},
+"1649752": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-26: no ADS mentioned"
+},
+"1650107": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-13: no ADS mentioned"
+},
+"1650196": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1650372": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1651625": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-13: no ADS mentioned"
+},
+"1651717": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-26: no ADS mentioned"
+},
+"1653192": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1654126": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-09: ADS ratio not found"
+},
+"1654508": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1654795": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-31: no ADS mentioned"
+},
+"1655190": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1655891": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-26: no ADS mentioned"
+},
+"1656081": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2025-09-04: ADS ratio not found"
+},
+"1656472": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2019-03-26: no ADS mentioned"
+},
+"1657800": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1659576": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1659939": {
+"checked": "2026-11-10",
+"ratio": 50.0,
+"src": "20-F 2026-04-28"
+},
+"1660046": {
+"checked": "2026-11-10",
+"ratio": 40.0,
+"src": "20-F 2026-09-24"
+},
+"1665275": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1666175": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-12: no ADS mentioned"
+},
+"1666782": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1668393": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1668438": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-03-04: no ADS mentioned"
+},
+"1668501": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1668717": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-03"
+},
+"1670061": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-19: no ADS mentioned"
+},
+"1671235": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1671502": {
+"checked": "2026-11-10",
+"ratio": 400.0,
+"src": "20-F 2022-04-14"
+},
+"1671541": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1671750": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1671927": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2023-03-01"
+},
+"1674699": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1677250": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-17"
+},
+"1678748": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1679920": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1680513": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1680637": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1681348": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-11-02: no ADS mentioned"
+},
+"1682056": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1682241": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-08-06: ADS ratio not found"
+},
+"1683274": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1683408": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1683541": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-06-11: no ADS mentioned"
+},
+"1683825": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-02-26"
+},
+"1684505": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1684662": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"16859": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-04-30: no ADS mentioned"
+},
+"1686000": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1686009": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"16868": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-04: no ADS mentioned"
+},
+"16875": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1689448": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1690511": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-15: no ADS mentioned"
+},
+"1690639": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-10: no ADS mentioned"
+},
+"1691445": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-04-29"
+},
+"1691493": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-08: ADS ratio not found"
+},
+"1691710": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1692705": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-10"
+},
+"1697818": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-05-13"
+},
+"1697862": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-19"
+},
+"1698535": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-04: no ADS mentioned"
+},
+"16988": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2023-03-30"
+},
+"1699880": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2024-05-31: no ADS mentioned"
+},
+"1699967": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1700171": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1700173": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1701963": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2023-03-29: no ADS mentioned"
+},
+"1702123": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"1703118": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1703292": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1705969": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1706404": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1707919": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F/A 2022-08-05: ADS ratio not found"
+},
+"1708259": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-29"
+},
+"1708688": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-20: ADS ratio not found"
+},
+"1709048": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-27: no ADS mentioned"
+},
+"1709626": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-03-19"
+},
+"1709819": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-06-17"
+},
+"1710864": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1711375": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-04-28"
+},
+"1712178": {
+"checked": "2026-11-10",
+"ratio": 3200.0,
+"src": "20-F 2026-04-17"
+},
+"1712294": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1712356": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-13: no ADS mentioned"
+},
+"1712807": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-06-04: no ADS mentioned"
+},
+"1713675": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1713748": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-24: no ADS mentioned"
+},
+"1713923": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-24"
+},
+"1713930": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-26: no ADS mentioned"
+},
+"1713979": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1714174": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2024-03-28: no ADS mentioned"
+},
+"1714562": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2023-12-20: no ADS mentioned"
+},
+"1715272": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1715801": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1715925": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-07-23: no ADS mentioned"
+},
+"1716410": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1717161": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-22"
+},
+"1717393": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-17: no ADS mentioned"
+},
+"1717695": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1719117": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1719714": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2023-03-28"
+},
+"1720420": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2022-10-04: no ADS mentioned"
+},
+"1720424": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-06-26: no ADS mentioned"
+},
+"1720553": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1722387": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-25: no ADS mentioned"
+},
+"1722606": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-26: no ADS mentioned"
+},
+"1722608": {
+"checked": "2026-11-10",
+"ratio": 7.0,
+"src": "20-F 2026-03-16"
+},
+"1723047": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1723069": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-01: ADS ratio not found"
+},
+"1723455": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1723464": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"1723690": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-16"
+},
+"1723935": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-24"
+},
+"1724755": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30"
+},
+"1725033": {
+"checked": "2026-11-10",
+"ratio": 6.0,
+"src": "20-F 2026-04-30"
+},
+"1725332": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-03-19"
+},
+"1725569": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1725603": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1725964": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-27: no ADS mentioned"
+},
+"1726122": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-13: no ADS mentioned"
+},
+"1726159": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1726906": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1727370": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1728190": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-27"
+},
+"1728918": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1729173": {
+"checked": "2026-11-10",
+"ratio": 300.0,
+"src": "20-F 2026-04-30"
+},
+"1729214": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-20: ADS ratio not found"
+},
+"1729514": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1729653": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1731854": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1732379": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-04-24: no ADS mentioned"
+},
+"1733968": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1734427": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1734520": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-06-11: no ADS mentioned"
+},
+"1735514": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1736289": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1736541": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-10"
+},
+"1737270": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1737319": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1737339": {
+"checked": "2026-11-10",
+"ratio": 40.0,
+"src": "20-F 2026-03-27"
+},
+"1737450": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-27"
+},
+"1737806": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-04-29"
+},
+"1737927": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2019-06-26: no ADS mentioned"
+},
+"1738519": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1738906": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-30"
+},
+"1739016": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-11-02"
+},
+"1741530": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-27"
+},
+"1742195": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1742770": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-22"
+},
+"1743102": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-04-28"
+},
+"1743340": {
+"checked": "2026-11-10",
+"ratio": 4800.0,
+"src": "20-F 2026-05-08"
+},
+"1743344": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2023-03-31: no ADS mentioned"
+},
+"1743971": {
+"checked": "2026-11-10",
+"ratio": 300.0,
+"src": "20-F 2026-07-24"
+},
+"1744676": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-17"
+},
+"1744781": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-17"
+},
+"1745114": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-12"
+},
+"1745201": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-03: ADS ratio not found"
+},
+"1745431": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-23: ADS ratio not found"
+},
+"1748797": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-26: no ADS mentioned"
+},
+"1748830": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1750264": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-10-26"
+},
+"1750593": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-06"
+},
+"1751162": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1751912": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-10-16: no ADS mentioned"
+},
+"1752564": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1753368": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-09-28: no ADS mentioned"
+},
+"1753673": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-23: ADS ratio not found"
+},
+"1754088": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1754180": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1756594": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-08"
+},
+"1756607": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"1756708": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-02-24"
+},
+"1756770": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-27: no ADS mentioned"
+},
+"1757143": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-23"
+},
+"1758530": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-23"
+},
+"1759614": {
+"checked": "2026-11-10",
+"ratio": 100.0,
+"src": "20-F 2026-04-24"
+},
+"1759783": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-05-15"
+},
+"1760854": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-31"
+},
+"1762303": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F/A 2019-11-19"
+},
+"1762417": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-17"
+},
+"1762506": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-28"
+},
+"1762831": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1764757": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-13"
+},
+"1766600": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-12: no ADS mentioned"
+},
+"1767582": {
+"checked": "2026-11-10",
+"ratio": 8.0,
+"src": "20-F 2026-03-27"
+},
+"1768259": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-22"
+},
+"1769256": {
+"checked": "2026-11-10",
+"ratio": 2400.0,
+"src": "20-F 2026-01-14"
+},
+"1769484": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-10-30: ADS ratio not found"
+},
+"1769697": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F/A 2026-05-04: ADS ratio not found"
+},
+"1769731": {
+"checked": "2026-11-10",
+"ratio": 6.0,
+"src": "20-F 2026-04-29"
+},
+"1770088": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-24"
+},
+"1771007": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-31: ADS ratio not found"
+},
+"1771039": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1771755": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1771885": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-26: ADS ratio not found"
+},
+"1771910": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2023-03-15: no ADS mentioned"
+},
+"1774163": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1776985": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-07-30"
+},
+"1777765": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2023-04-13: no ADS mentioned"
+},
+"1778788": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1778940": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1778982": {
+"checked": "2026-11-10",
+"ratio": 100.0,
+"src": "20-F 2026-04-24"
+},
+"1779476": {
+"checked": "2026-11-10",
+"ratio": 500.0,
+"src": "20-F/A 2026-05-19"
+},
+"1780232": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-18: no ADS mentioned"
+},
+"1781193": {
+"checked": "2026-11-10",
+"ratio": 900.0,
+"src": "20-F 2026-04-02"
+},
+"1781753": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-15"
+},
+"1782999": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-29"
+},
+"1783407": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-30"
+},
+"1783432": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1785476": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1786286": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-24: no ADS mentioned"
+},
+"1786909": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-04-24"
+},
+"1787425": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-29: ADS ratio not found"
+},
+"1788235": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1788257": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30: no ADS mentioned"
+},
+"1788348": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-17: no ADS mentioned"
+},
+"1788707": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1789299": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-08-10"
+},
+"1789444": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1790169": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2022-09-16: no ADS mentioned"
+},
+"1790538": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1790607": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1790693": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1791703": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-03-27: no ADS mentioned"
+},
+"1791706": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-10"
+},
+"1791863": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-27: no ADS mentioned"
+},
+"1791942": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-25"
+},
+"1792030": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-30: no ADS mentioned"
+},
+"1792267": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-28"
+},
+"1793663": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-26: ADS ratio not found"
+},
+"1794338": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-04-23: no ADS mentioned"
+},
+"1794363": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1795589": {
+"checked": "2026-11-10",
+"ratio": 15.0,
+"src": "20-F 2026-04-23"
+},
+"1796026": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1796073": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-07-17: no ADS mentioned"
+},
+"1799207": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-22: ADS ratio not found"
+},
+"1799567": {
+"checked": "2026-11-10",
+"ratio": 0.05,
+"src": "20-F 2026-03-31"
+},
+"1800392": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-01: ADS ratio not found"
+},
+"1800890": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1801198": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-10"
+},
+"1801729": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1803800": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1804469": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-21: ADS ratio not found"
+},
+"1804583": {
+"checked": "2026-11-10",
+"ratio": 6.0,
+"src": "20-F 2026-05-08"
+},
+"1804792": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1807936": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1807983": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2023-06-27: ADS ratio not found"
+},
+"1808110": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-21: ADS ratio not found"
+},
+"1809196": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-05: ADS ratio not found"
+},
+"1809267": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1809587": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-24"
+},
+"1809691": {
+"checked": "2026-11-10",
+"ratio": 0.4,
+"src": "20-F 2026-02-27"
+},
+"1810997": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-16"
+},
+"1811931": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1812477": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-04-01: no ADS mentioned"
+},
+"1813241": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1813419": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1813783": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2025-12-19: no ADS mentioned"
+},
+"1814067": {
+"checked": "2026-11-10",
+"ratio": 1000.0,
+"src": "20-F 2026-05-12"
+},
+"1814423": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-04-24"
+},
+"1815021": {
+"checked": "2026-11-10",
+"ratio": 150.0,
+"src": "20-F 2026-07-13"
+},
+"1815620": {
+"checked": "2026-11-10",
+"ratio": 8.0,
+"src": "20-F 2025-09-15"
+},
+"1815779": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-17: ADS ratio not found"
+},
+"1815846": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F/A 2026-06-29"
+},
+"1816007": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-30"
+},
+"1816133": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1817083": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1817161": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1817740": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-26: no ADS mentioned"
+},
+"1819258": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1819580": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-29"
+},
+"1819704": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-04-29"
+},
+"1819794": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F/A 2026-10-06: ADS ratio not found"
+},
+"1821424": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-24: ADS ratio not found"
+},
+"1821468": {
+"checked": "2026-11-10",
+"ratio": 50.0,
+"src": "20-F 2026-04-29"
+},
+"1821866": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-04-30: no ADS mentioned"
+},
+"1822989": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1823126": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1823255": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-04-14: no ADS mentioned"
+},
+"1823306": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-05-21: no ADS mentioned"
+},
+"1823986": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-28"
+},
+"1825570": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1826168": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-03-30"
+},
+"1826286": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-20: ADS ratio not found"
+},
+"1826779": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1827401": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-23: no ADS mentioned"
+},
+"1828098": {
+"checked": "2026-11-10",
+"ratio": 4000.0,
+"src": "20-F 2026-04-30"
+},
+"1828102": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-09: no ADS mentioned"
+},
+"1828253": {
+"checked": "2026-11-10",
+"ratio": 50.0,
+"src": "20-F 2026-03-05"
+},
+"1828316": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F/A 2026-04-13"
+},
+"1828365": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-23"
+},
+"1829726": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-27: no ADS mentioned"
+},
+"1829809": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1829959": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-27: no ADS mentioned"
+},
+"1830056": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1830487": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-02: ADS ratio not found"
+},
+"1831907": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-09-16"
+},
+"1832803": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1832928": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-06: no ADS mentioned"
+},
+"1833141": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-06-29: no ADS mentioned"
+},
+"1834026": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-19: no ADS mentioned"
+},
+"1834048": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2025-04-01"
+},
+"1834267": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1835268": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2024-04-16"
+},
+"1835724": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-17"
+},
+"1836470": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-27: ADS ratio not found"
+},
+"1836503": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1836564": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-17"
+},
+"1836747": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1836775": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1837429": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-26: no ADS mentioned"
+},
+"1837493": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-26: ADS ratio not found"
+},
+"1838413": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-14"
+},
+"1838716": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-01"
+},
+"1838957": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-08"
+},
+"1839154": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1839290": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1839586": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1839799": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-19: no ADS mentioned"
+},
+"1840416": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2024-06-21: ADS ratio not found"
+},
+"1840616": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-25: no ADS mentioned"
+},
+"1840706": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-03: no ADS mentioned"
+},
+"1841644": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1841675": {
+"checked": "2026-11-10",
+"ratio": 2160.0,
+"src": "20-F 2026-04-30"
+},
+"1842726": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1842827": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-29"
+},
+"1843586": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-03-13"
+},
+"1843588": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-15: ADS ratio not found"
+},
+"1844450": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-19: no ADS mentioned"
+},
+"1845097": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-05: no ADS mentioned"
+},
+"1845840": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-17: ADS ratio not found"
+},
+"1846715": {
+"checked": "2026-11-10",
+"ratio": 8.0,
+"src": "20-F 2026-03-12"
+},
+"1846832": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-18: ADS ratio not found"
+},
+"1846839": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-31: no ADS mentioned"
+},
+"1847409": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-02-03: no ADS mentioned"
+},
+"1847706": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1847806": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-09: no ADS mentioned"
+},
+"1848309": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-30: no ADS mentioned"
+},
+"1848739": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-31: ADS ratio not found"
+},
+"1848763": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-07-30: no ADS mentioned"
+},
+"1848782": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1848826": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1849296": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-08-07: no ADS mentioned"
+},
+"1849396": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-04"
+},
+"1849853": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-04: ADS ratio not found"
+},
+"1850235": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30"
+},
+"1850269": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1851651": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1852354": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1852440": {
+"checked": "2026-11-10",
+"ratio": 6.0,
+"src": "20-F 2026-04-13"
+},
+"1852551": {
+"checked": "2026-11-10",
+"ratio": 60.0,
+"src": "20-F 2025-09-19"
+},
+"1852753": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1853599": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1853630": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-14: no ADS mentioned"
+},
+"1853717": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-17"
+},
+"1853860": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-30: no ADS mentioned"
+},
+"1853889": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1853962": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2024-03-12: no ADS mentioned"
+},
+"1854078": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2024-04-30"
+},
+"1854233": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2023-05-04: no ADS mentioned"
+},
+"1854257": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1854368": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2025-03-31: ADS ratio not found"
+},
+"1854545": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-24"
+},
+"1854640": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-23: no ADS mentioned"
+},
+"1855129": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-05: ADS ratio not found"
+},
+"1855612": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-06: ADS ratio not found"
+},
+"1855743": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2024-02-28: ADS ratio not found"
+},
+"1856082": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1856488": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1857030": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1857047": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1857190": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-26: ADS ratio not found"
+},
+"1858724": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-24"
+},
+"1858985": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-03: ADS ratio not found"
+},
+"1858994": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1859022": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1859690": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2025-12-09: ADS ratio not found"
+},
+"1859795": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-02-26"
+},
+"1860805": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-12: no ADS mentioned"
+},
+"1861233": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "40-F 2023-03-09: ADS ratio not found"
+},
+"1861479": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1861737": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-24"
+},
+"1862044": {
+"checked": "2026-11-10",
+"ratio": 35.0,
+"src": "20-F 2026-04-24"
+},
+"1863934": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-10-19: no ADS mentioned"
+},
+"1864163": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1864597": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1866030": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-01: no ADS mentioned"
+},
+"1866034": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1866146": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1866460": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1866501": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-09: no ADS mentioned"
+},
+"1866782": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-28: no ADS mentioned"
+},
+"1867102": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-24: no ADS mentioned"
+},
+"1867729": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-23"
+},
+"1867834": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"1868050": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1868866": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1868995": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-11: ADS ratio not found"
+},
+"1869137": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1869666": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1871983": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-06-18: no ADS mentioned"
+},
+"1872061": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1872090": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-29"
+},
+"1872195": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-10: no ADS mentioned"
+},
+"1872302": {
+"checked": "2026-11-10",
+"ratio": 3540000.0,
+"src": "20-F 2026-04-13"
+},
+"1872529": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-03"
+},
+"1873093": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-31: ADS ratio not found"
+},
+"1873875": {
+"checked": "2026-11-10",
+"ratio": 25.0,
+"src": "20-F 2023-10-31"
+},
+"1874252": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-03-31: no ADS mentioned"
+},
+"1874315": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2024-04-15: no ADS mentioned"
+},
+"1875091": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-31: ADS ratio not found"
+},
+"1875547": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-11-12: no ADS mentioned"
+},
+"1875609": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-20: ADS ratio not found"
+},
+"1876183": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-16: ADS ratio not found"
+},
+"1876431": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-09-04: no ADS mentioned"
+},
+"1877333": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1877778": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1877787": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-20: ADS ratio not found"
+},
+"1877971": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-14"
+},
+"1878057": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-17: ADS ratio not found"
+},
+"1878848": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2025-03-20: no ADS mentioned"
+},
+"1879248": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-15: ADS ratio not found"
+},
+"1881472": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-10: no ADS mentioned"
+},
+"1884082": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-17: ADS ratio not found"
+},
+"1884122": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1885110": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1885408": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-01: ADS ratio not found"
+},
+"1885827": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-07-06: ADS ratio not found"
+},
+"1886190": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-31: ADS ratio not found"
+},
+"1888014": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-06-09: ADS ratio not found"
+},
+"1888151": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30: no ADS mentioned"
+},
+"1888274": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-04-02: no ADS mentioned"
+},
+"1888980": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-11-02"
+},
+"1889823": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-12-29: no ADS mentioned"
+},
+"1890126": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1891512": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2023-05-17: no ADS mentioned"
+},
+"1892500": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-01-20: ADS ratio not found"
+},
+"1894693": {
+"checked": "2026-11-10",
+"ratio": 90.0,
+"src": "20-F 2026-03-27"
+},
+"1895597": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-13"
+},
+"1896084": {
+"checked": "2026-11-10",
+"ratio": 40.0,
+"src": "20-F 2026-04-29"
+},
+"1897532": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-01-30: ADS ratio not found"
+},
+"1898416": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-31: ADS ratio not found"
+},
+"1898601": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-09-29"
+},
+"1898643": {
+"checked": "2026-11-10",
+"ratio": 275.0,
+"src": "20-F 2026-03-23"
+},
+"1899123": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1900304": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-13"
+},
+"1901215": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-25: ADS ratio not found"
+},
+"1901279": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-09: ADS ratio not found"
+},
+"1901931": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1902276": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1903145": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-15: no ADS mentioned"
+},
+"1904501": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-06-26: no ADS mentioned"
+},
+"1904856": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-26: no ADS mentioned"
+},
+"1905511": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-08: no ADS mentioned"
+},
+"1905660": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-07-17: no ADS mentioned"
+},
+"1905688": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1907184": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-30: ADS ratio not found"
+},
+"1907909": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-30: no ADS mentioned"
+},
+"1908705": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-10-29: ADS ratio not found"
+},
+"1910903": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1912884": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2025-12-15: ADS ratio not found"
+},
+"1913847": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-06-29: ADS ratio not found"
+},
+"1915760": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1916331": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30: no ADS mentioned"
+},
+"1916416": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-04-21: no ADS mentioned"
+},
+"1917817": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1918151": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1920092": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2025-11-17: ADS ratio not found"
+},
+"1921050": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1922097": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1922446": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-03-17: no ADS mentioned"
+},
+"1922641": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-30: ADS ratio not found"
+},
+"1925511": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1926293": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-08-14: ADS ratio not found"
+},
+"1926792": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-27: ADS ratio not found"
+},
+"1927026": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1927719": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-26: ADS ratio not found"
+},
+"1929908": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1930021": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1930179": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-10-30: ADS ratio not found"
+},
+"1930459": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1930510": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-07-15: ADS ratio not found"
+},
+"1933021": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-11: ADS ratio not found"
+},
+"1935418": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-06-30: ADS ratio not found"
+},
+"1936258": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2024-10-28: no ADS mentioned"
+},
+"1937453": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1937737": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2025-12-29: ADS ratio not found"
+},
+"1938186": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-20: no ADS mentioned"
+},
+"1938534": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1939479": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1939780": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-15: ADS ratio not found"
+},
+"1939965": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F/A 2026-06-22: ADS ratio not found"
+},
+"1940674": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-20: ADS ratio not found"
+},
+"1940941": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-06-29: ADS ratio not found"
+},
+"1941158": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-11-05: ADS ratio not found"
+},
+"1944399": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F/A 2026-09-18"
+},
+"1944552": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-10"
+},
+"1944885": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-24: no ADS mentioned"
+},
+"1944902": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-28: ADS ratio not found"
+},
+"1944955": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1945166": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1945240": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-07-31: no ADS mentioned"
+},
+"1948294": {
+"checked": "2026-11-10",
+"ratio": 8.0,
+"src": "20-F 2026-04-27"
+},
+"1948443": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-07-31: ADS ratio not found"
+},
+"1948697": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-08: no ADS mentioned"
+},
+"1949257": {
+"checked": "2026-11-10",
+"ratio": 300.0,
+"src": "20-F 2026-09-30"
+},
+"1951089": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-09-25: no ADS mentioned"
+},
+"1951229": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-08-17: ADS ratio not found"
+},
+"1953530": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-04: ADS ratio not found"
+},
+"1953575": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"1954694": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-20: no ADS mentioned"
+},
+"1956827": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-23"
+},
+"1957001": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-15: no ADS mentioned"
+},
+"1957538": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30: no ADS mentioned"
+},
+"1958217": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-19: no ADS mentioned"
+},
+"1958389": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1959994": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-11-03: no ADS mentioned"
+},
+"1961592": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1963439": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-05-15"
+},
+"1964504": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-11: no ADS mentioned"
+},
+"1964954": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-20: no ADS mentioned"
+},
+"1965143": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1965473": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-27: ADS ratio not found"
+},
+"1965615": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1966041": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1966287": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-13: no ADS mentioned"
+},
+"1966750": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-01-12: no ADS mentioned"
+},
+"1966983": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2024-03-22: no ADS mentioned"
+},
+"1967397": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-28: ADS ratio not found"
+},
+"1967621": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-01-30: ADS ratio not found"
+},
+"1967631": {
+"checked": "2026-11-10",
+"ratio": 18.0,
+"src": "20-F 2026-04-28"
+},
+"1968378": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1968385": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1968867": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1969373": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-03-17"
+},
+"1969729": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1969766": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1969796": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1969863": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-11-02: no ADS mentioned"
+},
+"1969928": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-07-22: ADS ratio not found"
+},
+"1970125": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1971115": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-24: ADS ratio not found"
+},
+"1971260": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1971828": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-11-03: no ADS mentioned"
+},
+"1971975": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1972074": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-10-08: no ADS mentioned"
+},
+"1972589": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1973832": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-26: ADS ratio not found"
+},
+"1974044": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-05-27: no ADS mentioned"
+},
+"1975641": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-28: ADS ratio not found"
+},
+"1976443": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1976908": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-10: ADS ratio not found"
+},
+"1977102": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2025-12-18: ADS ratio not found"
+},
+"1977971": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1978151": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1978165": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1978954": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-05-22: no ADS mentioned"
+},
+"1979407": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30: no ADS mentioned"
+},
+"1979408": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1979484": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2024-07-08: no ADS mentioned"
+},
+"1981519": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-10-31: no ADS mentioned"
+},
+"1981775": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1982012": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1982448": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-15: no ADS mentioned"
+},
+"1985062": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-06-22: ADS ratio not found"
+},
+"1985337": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F/A 2026-04-24: ADS ratio not found"
+},
+"1985406": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1985487": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-16"
+},
+"1986694": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1987189": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"1987240": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-15: ADS ratio not found"
+},
+"1988776": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-15: ADS ratio not found"
+},
+"1988894": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-26: ADS ratio not found"
+},
+"1989815": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1989930": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-28: ADS ratio not found"
+},
+"1990950": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-11-10: no ADS mentioned"
+},
+"1991605": {
+"checked": "2026-11-10",
+"ratio": 25.0,
+"src": "20-F/A 2026-05-18"
+},
+"1992500": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1992604": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1993344": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-04-01: no ADS mentioned"
+},
+"1993431": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2025-05-08: ADS ratio not found"
+},
+"1995075": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-15: ADS ratio not found"
+},
+"1995116": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-07-30: ADS ratio not found"
+},
+"1995306": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-04-13"
+},
+"1995520": {
+"checked": "2026-11-10",
+"ratio": 6.0,
+"src": "20-F 2026-04-30"
+},
+"1995704": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-07-01: no ADS mentioned"
+},
+"1996586": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1997377": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-27: no ADS mentioned"
+},
+"1997403": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F/A 2026-05-04: ADS ratio not found"
+},
+"1997464": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-25: no ADS mentioned"
+},
+"1997711": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-18: ADS ratio not found"
+},
+"1998056": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2025-11-26: no ADS mentioned"
+},
+"1999111": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"1999124": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2000208": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2000230": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-07-31: ADS ratio not found"
+},
+"2000684": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2000756": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-15: ADS ratio not found"
+},
+"2001201": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2001794": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-12: ADS ratio not found"
+},
+"2002236": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-28: ADS ratio not found"
+},
+"2002326": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2003061": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-10-28: no ADS mentioned"
+},
+"2003292": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-26: no ADS mentioned"
+},
+"2003813": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2003977": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-24: ADS ratio not found"
+},
+"2004340": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2004489": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-10-30: ADS ratio not found"
+},
+"2006413": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2006960": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2007191": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-03-20"
+},
+"2007599": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-07-31"
+},
+"2007702": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-08-07: ADS ratio not found"
+},
+"2007846": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-13: ADS ratio not found"
+},
+"2008257": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2009233": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-09-28: no ADS mentioned"
+},
+"2010499": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-08-13: no ADS mentioned"
+},
+"2011053": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-09-28: no ADS mentioned"
+},
+"2011589": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2012096": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30: no ADS mentioned"
+},
+"2012219": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-10-22: no ADS mentioned"
+},
+"2013186": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"2013223": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"2013649": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-29"
+},
+"2018139": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2018222": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-01-16: ADS ratio not found"
+},
+"2018462": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-13"
+},
+"2018852": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2019103": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-03-27: no ADS mentioned"
+},
+"2020027": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-11-05: no ADS mentioned"
+},
+"2020932": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-23"
+},
+"2023311": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-04-29"
+},
+"2023796": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-06-12: no ADS mentioned"
+},
+"2024114": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-15: ADS ratio not found"
+},
+"2024203": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2024258": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-08-31: ADS ratio not found"
+},
+"2024656": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-07-30: no ADS mentioned"
+},
+"2026514": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-02: ADS ratio not found"
+},
+"2027037": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2027262": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-30: no ADS mentioned"
+},
+"2027265": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-15: no ADS mentioned"
+},
+"2027329": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2027330": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2027815": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-06-29: ADS ratio not found"
+},
+"2028177": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30"
+},
+"2029138": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-29: ADS ratio not found"
+},
+"2030277": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-08"
+},
+"2035304": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-24: ADS ratio not found"
+},
+"2038919": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2039784": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2040290": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-07-13: ADS ratio not found"
+},
+"2041338": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-08-17: no ADS mentioned"
+},
+"2041829": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-15: no ADS mentioned"
+},
+"2041918": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2042556": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2043424": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2044153": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2044241": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-10-29: no ADS mentioned"
+},
+"2044863": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2044984": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2045300": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2045434": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2046098": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2046117": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-09-17: no ADS mentioned"
+},
+"2047190": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-05-05: no ADS mentioned"
+},
+"2048270": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2048271": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-09-28: no ADS mentioned"
+},
+"2048847": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2048958": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2049560": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2053383": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2053411": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2053843": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2055938": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2056030": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2056751": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2058601": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"2058897": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-04-08"
+},
+"2059986": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2060863": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2061911": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2062440": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-16: ADS ratio not found"
+},
+"2062522": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2062803": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2062807": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2063345": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2063413": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2063417": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2063675": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2063685": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2064764": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-30: ADS ratio not found"
+},
+"2065282": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2065485": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2065660": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2065932": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2066601": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2067171": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2068427": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2068440": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2068441": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2070570": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2070829": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2070954": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-07-28: ADS ratio not found"
+},
+"2071668": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-18: ADS ratio not found"
+},
+"2071868": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2071881": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2071911": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2071912": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2071913": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2072098": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2072389": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2072563": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2073268": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2073615": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2073638": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2073655": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2073669": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2073804": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2073893": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2073901": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2073913": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2073972": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2074157": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2075141": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2075349": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2075474": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2075877": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2076398": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2076631": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2077146": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2077242": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2079109": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-06-16: ADS ratio not found"
+},
+"2079706": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2080845": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-30"
+},
+"2081206": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-30: ADS ratio not found"
+},
+"2082141": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2083221": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2083526": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-30"
+},
+"2084022": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2085208": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2085236": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2086771": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-24: no ADS mentioned"
+},
+"2086869": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2087500": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2087840": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2087843": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2087844": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2087852": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2087856": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2088256": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-14: no ADS mentioned"
+},
+"2088339": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2088375": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2088688": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2088776": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2088827": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2089499": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2089506": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2089509": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2090231": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2090651": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2091028": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2091467": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-18: no ADS mentioned"
+},
+"2091585": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2092243": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2092248": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2092258": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2093227": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2093667": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2093856": {
+"checked": "2026-11-10",
+"ratio": 6.0,
+"src": "40-F 2026-10-30"
+},
+"2093907": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2094201": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2094691": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2094900": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2095096": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2095292": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2096533": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2097461": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2098326": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2098381": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2098425": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2099727": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2099818": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2100603": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2102593": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2102907": {
+"checked": "2026-11-10",
+"ratio": 200.0,
+"src": "20-F 2026-10-30"
+},
+"2103596": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2105038": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2026-10-28: no ADS mentioned"
+},
+"2106126": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2106613": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"2107946": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2107989": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2108124": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2108180": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2108185": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2109234": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2109545": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2109666": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2111453": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2113060": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2116276": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2117702": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2119292": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-09-02: no ADS mentioned"
+},
+"2120046": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2120422": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2120882": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2123346": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2124215": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2124403": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2127653": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2127839": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2127852": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2127859": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2127860": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2127861": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2129284": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2131812": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2133892": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2134599": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2136706": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2137358": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2139482": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2139627": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2141116": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2141493": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2142762": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2147869": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2149111": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2153327": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2156728": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2157475": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"2158201": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"217410": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-12"
+},
+"2809": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-19: no ADS mentioned"
+},
+"311337": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-26: no ADS mentioned"
+},
+"312069": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-02-10"
+},
+"3124": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2007-06-21"
+},
+"313216": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-19: no ADS mentioned"
+},
+"313807": {
+"checked": "2026-11-10",
+"ratio": 6.0,
+"src": "20-F 2026-03-06"
+},
+"313838": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-06-18"
+},
+"314590": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-09-01"
+},
+"316888": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-27: no ADS mentioned"
+},
+"353278": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-04"
+},
+"354516": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"355363": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"47710": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F/A 2011-07-21"
+},
+"49938": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"57083": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2018-06-27"
+},
+"67088": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-07-06"
+},
+"701818": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-26: no ADS mentioned"
+},
+"715153": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-06-18"
+},
+"717826": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-12"
+},
+"718940": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-06: no ADS mentioned"
+},
+"719245": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-11-04: no ADS mentioned"
+},
+"733099": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-06: no ADS mentioned"
+},
+"756894": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-27: no ADS mentioned"
+},
+"766011": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-23: no ADS mentioned"
+},
+"769218": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2026-04-01: no ADS mentioned"
+},
+"769594": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2017-06-28"
+},
+"771992": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-18: no ADS mentioned"
+},
+"78150": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-27"
+},
+"790500": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"793628": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-15: no ADS mentioned"
+},
+"793742": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"795800": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2023-05-15: no ADS mentioned"
+},
+"800523": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"801645": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"806968": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-03-19"
+},
+"811522": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-12-01: no ADS mentioned"
+},
+"811809": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-08-18"
+},
+"814052": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-02-27"
+},
+"835403": {
+"checked": "2026-11-10",
+"ratio": 4.0,
+"src": "20-F 2026-08-18"
+},
+"839923": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-05-22"
+},
+"842180": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-20: ADS ratio not found"
+},
+"844150": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-02-17"
+},
+"844551": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-24: ADS ratio not found"
+},
+"845982": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-03-16"
+},
+"849395": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2023-03-10"
+},
+"849997": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-15: no ADS mentioned"
+},
+"850918": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2003-07-02: no ADS mentioned"
+},
+"855950": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"858446": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-26"
+},
+"861967": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"861972": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"863064": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-19"
+},
+"868675": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-12: no ADS mentioned"
+},
+"868822": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-30: no ADS mentioned"
+},
+"872699": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"876779": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2025-05-15: no ADS mentioned"
+},
+"877019": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F/A 2011-02-17: no ADS mentioned"
+},
+"877028": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"878518": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-31: no ADS mentioned"
+},
+"879764": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-27: ADS ratio not found"
+},
+"886977": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-05: no ADS mentioned"
+},
+"886986": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-02-19: no ADS mentioned"
+},
+"887153": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-07-31"
+},
+"887225": {
+"checked": "2026-11-10",
+"ratio": 0.5,
+"src": "20-F 2026-04-29"
+},
+"888721": {
+"checked": "2026-11-10",
+"ratio": 20.0,
+"src": "20-F 2026-04-30"
+},
+"888746": {
+"checked": "2026-11-10",
+"ratio": 2.0,
+"src": "20-F 2026-04-29"
+},
+"889132": {
+"checked": "2026-11-10",
+"ratio": 0.25,
+"src": "20-F 2026-04-29"
+},
+"890541": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-20: no ADS mentioned"
+},
+"891478": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-27"
+},
+"892450": {
+"checked": "2026-11-10",
+"ratio": 0.5,
+"src": "20-F 2026-04-29"
+},
+"895564": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"895728": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2017-02-17: no ADS mentioned"
+},
+"900391": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-05-15"
+},
+"901832": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-02-24: ADS ratio not found"
+},
+"904851": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-26"
+},
+"904868": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"908732": {
+"checked": "2026-11-10",
+"ratio": 100.0,
+"src": "20-F/A 2024-05-28"
+},
+"909037": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-22"
+},
+"909327": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-24"
+},
+"910631": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-04-16: ADS ratio not found"
+},
+"912892": {
+"checked": "2026-11-10",
+"ratio": 25.0,
+"src": "20-F 2026-04-30"
+},
+"912958": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-24: ADS ratio not found"
+},
+"913059": {
+"checked": "2026-11-10",
+"ratio": 3.0,
+"src": "20-F 2026-04-09"
+},
+"913290": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-27: no ADS mentioned"
+},
+"915191": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-06: no ADS mentioned"
+},
+"917851": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-27"
+},
+"918608": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2026-03-27: no ADS mentioned"
+},
+"921638": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2021-03-30: no ADS mentioned"
+},
+"921968": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"923883": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"924613": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-05"
+},
+"925261": {
+"checked": "2026-11-10",
+"ratio": 6.0,
+"src": "20-F 2026-04-01"
+},
+"927971": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F/A 2025-12-17: no ADS mentioned"
+},
+"929869": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-19"
+},
+"930157": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-03-25"
+},
+"930826": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"931427": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-04-22"
+},
+"932470": {
+"checked": "2026-11-10",
+"ratio": 5.0,
+"src": "20-F 2026-03-11"
+},
+"932695": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-04-29: no ADS mentioned"
+},
+"933267": {
+"checked": "2026-11-10",
+"ratio": 10.0,
+"src": "20-F 2026-10-21"
+},
+"936801": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2009-09-29: no ADS mentioned"
+},
+"937966": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-02-25: no ADS mentioned"
+},
+"938323": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2026-03-13"
+},
+"941221": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-03-11: ADS ratio not found"
+},
+"942149": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2018-12-26: ADS ratio not found"
+},
+"946394": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "20-F 2026-05-01: ADS ratio not found"
+},
+"946770": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "20-F 2010-02-25"
+},
+"947263": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-04: no ADS mentioned"
+},
+"95227": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"95666": {
+"checked": "2026-11-10",
+"ratio": null,
+"src": "no 20-F/40-F found"
+},
+"9631": {
+"checked": "2026-11-10",
+"ratio": 1.0,
+"src": "40-F 2025-12-02: no ADS mentioned"
+}
+}
