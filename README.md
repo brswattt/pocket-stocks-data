@@ -22,5 +22,6 @@ Small data files the [Pocket Stocks](https://github.com/brswattt/pocket-stocks) 
   the year it mostly covers. Foreign ADRs: per-ADS values converted to USD at spot FX using the ADS ratio read
   from the latest 20-F/40-F (`ads_ratio`, `ads_src`).
 - `adr_ratios.json`: cache of ADS ratios per SEC CIK.
+- `app.json`: latest Pocket Stocks Android version and its APK (under this repo's Releases); the app's update check.
 
 Not investment advice; may be delayed or wrong.
