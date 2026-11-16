@@ -1,0 +1,14 @@
+{
+ "ticker": "SWA",
+ "name": "Simwon America Corp.",
+ "cik": 1698506,
+ "form": "S-1/A",
+ "filed": "2026-11-06",
+ "accession": "0001213900-26-116984",
+ "url": "https://www.sec.gov/Archives/edgar/data/1698506/000121390026116984/ea0270032-21.htm",
+ "shares_after": 14750000.0,
+ "chk": [
+  "price:not_found",
+  "summary:not_found"
+ ]
+}

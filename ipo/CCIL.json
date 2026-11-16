@@ -1,0 +1,14 @@
+{
+ "ticker": "CCIL",
+ "name": "CALM Chain International Ltd",
+ "cik": 2083945,
+ "form": "F-1/A",
+ "filed": "2026-08-26",
+ "accession": "0001213900-26-093861",
+ "url": "https://www.sec.gov/Archives/edgar/data/2083945/000121390026093861/ea0254362-09.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

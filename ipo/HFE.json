@@ -1,0 +1,16 @@
+{
+ "ticker": "HFE",
+ "name": "Hao Feng Group Ltd.",
+ "cik": 2120204,
+ "form": "F-1/A",
+ "filed": "2026-10-15",
+ "accession": "0001185185-26-004773",
+ "url": "https://www.sec.gov/Archives/edgar/data/2120204/000118518526004773/haofengf1a1101426.htm",
+ "price_low": 5.0,
+ "price_high": 8.0,
+ "priced": false,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

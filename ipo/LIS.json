@@ -1,0 +1,16 @@
+{
+ "ticker": "LIS",
+ "name": "LIS Technologies Inc",
+ "cik": 1973276,
+ "form": "S-1/A",
+ "filed": "2026-11-05",
+ "accession": "0001493152-26-050287",
+ "url": "https://www.sec.gov/Archives/edgar/data/1973276/000149315226050287/forms-1a.htm",
+ "price_low": 5.0,
+ "price_high": 7.0,
+ "priced": false,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

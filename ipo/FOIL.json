@@ -1,0 +1,14 @@
+{
+ "ticker": "FOIL",
+ "name": "Londian Wason New Energy Tech Inc.",
+ "cik": 2006960,
+ "form": "424B4",
+ "filed": "2026-08-14",
+ "accession": "0001193125-26-351136",
+ "url": "https://www.sec.gov/Archives/edgar/data/2006960/000119312526351136/d476818d424b4.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

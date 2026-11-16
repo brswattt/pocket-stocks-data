@@ -1,0 +1,14 @@
+{
+ "ticker": "NWCL",
+ "name": "newcleo plc",
+ "cik": 2131813,
+ "form": "F-1",
+ "filed": "2026-10-06",
+ "accession": "0001140361-26-038802",
+ "url": "https://www.sec.gov/Archives/edgar/data/2131813/000114036126038802/ny20082989x1_f1.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "ticker": "NUOX",
+ "name": "NuvOx Therapeutics, Inc.",
+ "cik": 1966126,
+ "form": "S-1/A",
+ "filed": "2026-10-29",
+ "accession": "0001213900-26-113463",
+ "url": "https://www.sec.gov/Archives/edgar/data/1966126/000121390026113463/ea0225257-14.htm",
+ "price_low": 6.0,
+ "price_high": 8.0,
+ "priced": false,
+ "shares_after": 13350208.0,
+ "chk": [
+  "summary:not_found"
+ ]
+}

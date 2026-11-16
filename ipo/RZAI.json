@@ -1,0 +1,14 @@
+{
+ "ticker": "RZAI",
+ "name": "ROZE AI INC.",
+ "cik": 2075335,
+ "form": "F-1",
+ "filed": "2026-09-30",
+ "accession": "0001213900-26-105222",
+ "url": "https://www.sec.gov/Archives/edgar/data/2075335/000121390026105222/ea0306952-f1_roze.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

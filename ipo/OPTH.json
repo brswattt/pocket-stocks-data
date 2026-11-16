@@ -1,0 +1,14 @@
+{
+ "ticker": "OPTH",
+ "name": "Optimi Health Corp.",
+ "cik": 2027329,
+ "form": "F-1",
+ "filed": "2026-08-17",
+ "accession": "0001213900-26-090325",
+ "url": "https://www.sec.gov/Archives/edgar/data/2027329/000121390026090325/ea0298214-f1_optimi.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

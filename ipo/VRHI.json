@@ -1,0 +1,16 @@
+{
+ "ticker": "VRHI",
+ "name": "Veri MedTech Holdings, Inc.",
+ "cik": 2078149,
+ "form": "S-1/A",
+ "filed": "2026-09-22",
+ "accession": "0001096906-26-001407",
+ "url": "https://www.sec.gov/Archives/edgar/data/2078149/000109690626001407/vrhi_s1z.htm",
+ "price_low": 4.0,
+ "price_high": 4.0,
+ "priced": true,
+ "shares_after": 11750004.0,
+ "chk": [
+  "summary:not_found"
+ ]
+}

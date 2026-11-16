@@ -1,0 +1,16 @@
+{
+ "ticker": "INNPF",
+ "name": "INNOCAN PHARMA Corp",
+ "cik": 1889791,
+ "form": "F-1/A",
+ "filed": "2026-04-03",
+ "accession": "0001493152-26-015152",
+ "url": "https://www.sec.gov/Archives/edgar/data/1889791/000149315226015152/formf-1a.htm",
+ "price_low": 5.0,
+ "price_high": 6.0,
+ "priced": false,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

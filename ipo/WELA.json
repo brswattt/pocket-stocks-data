@@ -1,0 +1,16 @@
+{
+ "ticker": "WELA",
+ "name": "Wella Co",
+ "cik": 2125056,
+ "form": "S-1/A",
+ "filed": "2026-11-13",
+ "accession": "0001628280-26-073693",
+ "url": "https://www.sec.gov/Archives/edgar/data/2125056/000162828026073693/wellaoperations-sx1a2.htm",
+ "price_low": 1.0,
+ "price_high": 1.0,
+ "priced": true,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "ticker": "SKUB",
+ "name": "Skubbs Holdings Ltd",
+ "cik": 1977251,
+ "form": "F-1/A",
+ "filed": "2026-09-18",
+ "accession": "0001493152-26-043327",
+ "url": "https://www.sec.gov/Archives/edgar/data/1977251/000149315226043327/formf-1a.htm",
+ "price_low": 4.5,
+ "price_high": 5.5,
+ "priced": false,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

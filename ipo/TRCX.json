@@ -1,0 +1,27 @@
+{
+ "ticker": "TRCX",
+ "name": "Tracx Logis Ltd.",
+ "cik": 2114145,
+ "form": "F-1/A",
+ "filed": "2026-11-03",
+ "accession": "0001213900-26-115596",
+ "url": "https://www.sec.gov/Archives/edgar/data/2114145/000121390026115596/ea0274222-16.htm",
+ "price_low": 18.0,
+ "price_high": 22.0,
+ "priced": false,
+ "fy": [
+  {
+   "year": 2024,
+   "revenue": 30247304.0
+  },
+  {
+   "year": 2025,
+   "revenue": 20185437.0
+  }
+ ],
+ "ttm_revenue": 20185437.0,
+ "chk": [
+  "shares:not_found",
+  "net_income:columns"
+ ]
+}

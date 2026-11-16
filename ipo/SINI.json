@@ -1,0 +1,14 @@
+{
+ "ticker": "SINI",
+ "name": "SIERRA INTERNATIONAL NETWORK INC",
+ "cik": 2011617,
+ "form": "S-1",
+ "filed": "2026-07-29",
+ "accession": "0002011617-26-000016",
+ "url": "https://www.sec.gov/Archives/edgar/data/2011617/000201161726000016/siniss2.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

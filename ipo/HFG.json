@@ -1,0 +1,14 @@
+{
+ "ticker": "HFG",
+ "name": "Hometown Financial Group, Inc./MD",
+ "cik": 2152644,
+ "form": "S-1/A",
+ "filed": "2026-11-06",
+ "accession": "0001193125-26-451816",
+ "url": "https://www.sec.gov/Archives/edgar/data/2152644/000119312526451816/hfg-20261106.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

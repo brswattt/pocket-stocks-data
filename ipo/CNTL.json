@@ -1,0 +1,14 @@
+{
+ "ticker": "CNTL",
+ "name": "Centinel Spine Holdco, Inc.",
+ "cik": 2132065,
+ "form": "S-1",
+ "filed": "2026-10-07",
+ "accession": "0001104659-26-114375",
+ "url": "https://www.sec.gov/Archives/edgar/data/2132065/000110465926114375/tm2613312-6_s1.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "ticker": "WODO",
+ "name": "World Road Inc.",
+ "cik": 2049348,
+ "form": "F-1/A",
+ "filed": "2026-09-16",
+ "accession": "0001829126-26-010133",
+ "url": "https://www.sec.gov/Archives/edgar/data/2049348/000182912626010133/worldroad_f1a.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

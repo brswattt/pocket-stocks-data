@@ -1,0 +1,16 @@
+{
+ "ticker": "FFPP",
+ "name": "Fast Finance Pay Corp.",
+ "cik": 2109616,
+ "form": "S-1/A",
+ "filed": "2026-09-21",
+ "accession": "0001493152-26-043424",
+ "url": "https://www.sec.gov/Archives/edgar/data/2109616/000149315226043424/forms-1a.htm",
+ "price_low": 4.0,
+ "price_high": 4.0,
+ "priced": true,
+ "shares_after": 34355258.0,
+ "chk": [
+  "summary:not_found"
+ ]
+}

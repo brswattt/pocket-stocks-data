@@ -1,0 +1,16 @@
+{
+ "ticker": "JRWP",
+ "name": "Jingrui Wang Pu Holdings Group Ltd.",
+ "cik": 1998284,
+ "form": "F-1/A",
+ "filed": "2026-11-12",
+ "accession": "0001104659-26-125497",
+ "url": "https://www.sec.gov/Archives/edgar/data/1998284/000110465926125497/tm2611036d2_f1a.htm",
+ "price_low": 4.0,
+ "price_high": 6.0,
+ "priced": false,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

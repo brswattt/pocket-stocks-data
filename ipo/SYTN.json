@@ -1,0 +1,35 @@
+{
+ "ticker": "SYTN",
+ "name": "Syntiant Corp.",
+ "cik": 1718728,
+ "form": "S-1/A",
+ "filed": "2026-08-31",
+ "accession": "0001193125-26-376166",
+ "url": "https://www.sec.gov/Archives/edgar/data/1718728/000119312526376166/ck0001718728-20260831.htm",
+ "fy": [
+  {
+   "year": 2025,
+   "revenue": 134953000.0,
+   "net_income": -25289000.0
+  },
+  {
+   "year": 2026,
+   "revenue": 131563000.0,
+   "net_income": -30613000.0
+  }
+ ],
+ "interim": {
+  "months": 6,
+  "year": 2025,
+  "revenue": 271794000.0,
+  "revenue_prior": 13647000.0,
+  "net_income": -60885000.0,
+  "net_income_prior": -25701000.0
+ },
+ "ttm_revenue": 389710000.0,
+ "ttm_net_income": -65797000.0,
+ "chk": [
+  "price:not_found",
+  "shares:not_found"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "ticker": "WWB",
+ "name": "WINDWARD BIO GROUP AG",
+ "cik": 2145089,
+ "form": "424B4",
+ "filed": "2026-11-16",
+ "accession": "0001193125-26-461203",
+ "url": "https://www.sec.gov/Archives/edgar/data/2145089/000119312526461203/d111653d424b4.htm",
+ "price_low": 17.0,
+ "price_high": 17.0,
+ "priced": true,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

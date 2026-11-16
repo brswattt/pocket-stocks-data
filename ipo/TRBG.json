@@ -1,0 +1,14 @@
+{
+ "ticker": "TRBG",
+ "name": "Turbogen Ltd.",
+ "cik": 2088375,
+ "form": "F-1/A",
+ "filed": "2026-08-28",
+ "accession": "0001213900-26-094545",
+ "url": "https://www.sec.gov/Archives/edgar/data/2088375/000121390026094545/ea0303757-f1a4_turbogen.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "revenue:not_found"
+ ]
+}

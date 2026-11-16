@@ -1,0 +1,16 @@
+{
+ "ticker": "RGNA",
+ "name": "Regenlab USA Inc.",
+ "cik": 2084031,
+ "form": "S-1/A",
+ "filed": "2026-10-27",
+ "accession": "0001829126-26-011539",
+ "url": "https://www.sec.gov/Archives/edgar/data/2084031/000182912626011539/regenlabusa_s1a1.htm",
+ "price_low": 6.0,
+ "price_high": 8.0,
+ "priced": false,
+ "shares_after": 19962451.0,
+ "chk": [
+  "summary:not_found"
+ ]
+}

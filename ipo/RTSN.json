@@ -1,0 +1,16 @@
+{
+ "ticker": "RTSN",
+ "name": "Retension Pharmaceuticals, Inc.",
+ "cik": 2002988,
+ "form": "424B4",
+ "filed": "2026-10-09",
+ "accession": "0001213900-26-108587",
+ "url": "https://www.sec.gov/Archives/edgar/data/2002988/000121390026108587/ea0276911-10.htm",
+ "price_low": 12.0,
+ "price_high": 12.0,
+ "priced": true,
+ "shares_after": 8331599.0,
+ "chk": [
+  "revenue:not_found"
+ ]
+}

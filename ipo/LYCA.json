@@ -1,0 +1,16 @@
+{
+ "ticker": "LYCA",
+ "name": "Lycia Therapeutics, Inc.",
+ "cik": 1806540,
+ "form": "424B4",
+ "filed": "2026-10-23",
+ "accession": "0001628280-26-067048",
+ "url": "https://www.sec.gov/Archives/edgar/data/1806540/000162828026067048/lyciatherapeutics-424b4.htm",
+ "price_low": 18.0,
+ "price_high": 18.0,
+ "priced": true,
+ "shares_after": 55034559.0,
+ "chk": [
+  "revenue:not_found"
+ ]
+}

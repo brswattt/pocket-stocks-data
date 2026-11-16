@@ -1,0 +1,36 @@
+{
+ "ticker": "OURA",
+ "name": "Oura Inc.",
+ "cik": 2133022,
+ "form": "S-1/A",
+ "filed": "2026-09-21",
+ "accession": "0001193125-26-396051",
+ "url": "https://www.sec.gov/Archives/edgar/data/2133022/000119312526396051/d119865ds1a.htm",
+ "price_low": 40.0,
+ "price_high": 44.0,
+ "priced": false,
+ "shares_after": 320945459.0,
+ "fy": [
+  {
+   "year": 2024,
+   "revenue": 406751000.0,
+   "net_income": 3649000.0
+  },
+  {
+   "year": 2025,
+   "revenue": 907856000.0,
+   "net_income": 12000.0
+  }
+ ],
+ "interim": {
+  "months": 9,
+  "year": 2026,
+  "revenue": 1214506000.0,
+  "revenue_prior": 697569000.0,
+  "net_income": 60768000.0,
+  "net_income_prior": 1573000.0
+ },
+ "ttm_revenue": 1424793000.0,
+ "ttm_net_income": 59207000.0,
+ "chk": []
+}

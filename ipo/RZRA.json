@@ -1,0 +1,16 @@
+{
+ "ticker": "RZRA",
+ "name": "Rezera Inc.",
+ "cik": 2141583,
+ "form": "S-1/A",
+ "filed": "2026-11-09",
+ "accession": "0001104659-26-124074",
+ "url": "https://www.sec.gov/Archives/edgar/data/2141583/000110465926124074/tmq-20261109xs1a.htm",
+ "price_low": 11.0,
+ "price_high": 13.0,
+ "priced": false,
+ "shares_after": 20776793.0,
+ "chk": [
+  "revenue:not_found"
+ ]
+}

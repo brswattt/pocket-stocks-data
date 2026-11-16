@@ -1,0 +1,16 @@
+{
+ "ticker": "IAM",
+ "name": "Iambic Therapeutics, Inc.",
+ "cik": 1997038,
+ "form": "424B4",
+ "filed": "2026-10-15",
+ "accession": "0001193125-26-422865",
+ "url": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526422865/iambic_inception_424b4.htm",
+ "price_low": 16.0,
+ "price_high": 16.0,
+ "priced": true,
+ "chk": [
+  "shares:not_found",
+  "revenue:not_found"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "ticker": "TFP",
+ "name": "TFP Group Ltd",
+ "cik": 2128185,
+ "form": "F-1",
+ "filed": "2026-09-25",
+ "accession": "0001628280-26-063550",
+ "url": "https://www.sec.gov/Archives/edgar/data/2128185/000162828026063550/tfpgrouplimited-fx1.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "revenue:columns"
+ ]
+}

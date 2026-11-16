@@ -1,0 +1,31 @@
+{
+ "ticker": "KHG",
+ "name": "Kainan Holding Group Ltd",
+ "cik": 2120528,
+ "form": "F-1/A",
+ "filed": "2026-10-09",
+ "accession": "0001575872-26-000686",
+ "url": "https://www.sec.gov/Archives/edgar/data/2120528/000157587226000686/kainan005_f1a.htm",
+ "price_low": 5.0,
+ "price_high": 5.0,
+ "priced": true,
+ "fy": [
+  {
+   "year": 2025,
+   "revenue": 81268230.0
+  },
+  {
+   "year": 2026,
+   "revenue": 108991616.0
+  },
+  {
+   "year": 2026,
+   "revenue": 26700543.0
+  }
+ ],
+ "ttm_revenue": 26700543.0,
+ "chk": [
+  "shares:not_found",
+  "net_income:columns"
+ ]
+}

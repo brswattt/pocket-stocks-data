@@ -1,0 +1,14 @@
+{
+ "ticker": "DRIL",
+ "name": "Lannister Mining Corp.",
+ "cik": 1851535,
+ "form": "F-1/A",
+ "filed": "2026-09-17",
+ "accession": "0001213900-26-100639",
+ "url": "https://www.sec.gov/Archives/edgar/data/1851535/000121390026100639/ea0303268-f1a13_lannister.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

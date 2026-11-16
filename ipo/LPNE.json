@@ -1,0 +1,14 @@
+{
+ "ticker": "LPNE",
+ "name": "LiPower New Energy Holdings Ltd",
+ "cik": 2080577,
+ "form": "F-1/A",
+ "filed": "2026-09-03",
+ "accession": "0001213900-26-097067",
+ "url": "https://www.sec.gov/Archives/edgar/data/2080577/000121390026097067/ea0304333-02.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

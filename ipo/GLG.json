@@ -1,0 +1,16 @@
+{
+ "ticker": "GLG",
+ "name": "GLGHK Ltd",
+ "cik": 2119287,
+ "form": "F-1/A",
+ "filed": "2026-09-30",
+ "accession": "0001493152-26-044960",
+ "url": "https://www.sec.gov/Archives/edgar/data/2119287/000149315226044960/formf-1a.htm",
+ "price_low": 5.0,
+ "price_high": 7.0,
+ "priced": false,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

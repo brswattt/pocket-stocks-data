@@ -1,0 +1,45 @@
+{
+ "ticker": "ENT",
+ "name": "ENTRATA, INC.",
+ "cik": 2028464,
+ "form": "S-1/A",
+ "filed": "2026-09-01",
+ "accession": "0001628280-26-059692",
+ "url": "https://www.sec.gov/Archives/edgar/data/2028464/000162828026059692/entrata-sx1a2.htm",
+ "fy": [
+  {
+   "year": 2024,
+   "revenue": 412000000.0,
+   "net_income": 21759000.0
+  },
+  {
+   "year": 2025,
+   "revenue": 509295000.0,
+   "net_income": 50676000.0
+  },
+  {
+   "year": 2025,
+   "revenue": 122210000.0,
+   "net_income": -2011000.0
+  },
+  {
+   "year": 2026,
+   "revenue": 151142000.0,
+   "net_income": 21558000.0
+  }
+ ],
+ "interim": {
+  "months": 6,
+  "year": 2026,
+  "revenue": 294625000.0,
+  "revenue_prior": 238811000.0,
+  "net_income": 44904000.0,
+  "net_income_prior": 11928000.0
+ },
+ "ttm_revenue": 206956000.0,
+ "ttm_net_income": 54534000.0,
+ "chk": [
+  "price:not_found",
+  "shares:not_found"
+ ]
+}

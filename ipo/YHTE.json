@@ -1,0 +1,16 @@
+{
+ "ticker": "YHTE",
+ "name": "Primagrove Ltd",
+ "cik": 2138135,
+ "form": "F-1",
+ "filed": "2026-09-30",
+ "accession": "0001213900-26-104919",
+ "url": "https://www.sec.gov/Archives/edgar/data/2138135/000121390026104919/ea0295228-06.htm",
+ "price_low": 4.0,
+ "price_high": 6.0,
+ "priced": false,
+ "chk": [
+  "shares:not_found",
+  "revenue:columns"
+ ]
+}

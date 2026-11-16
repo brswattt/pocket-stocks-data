@@ -1,0 +1,27 @@
+{
+ "ticker": "BSP",
+ "name": "Bending Spoons S.p.A.",
+ "cik": 2004711,
+ "form": "424B4",
+ "filed": "2026-07-01",
+ "accession": "0001104659-26-079884",
+ "url": "https://www.sec.gov/Archives/edgar/data/2004711/000110465926079884/tm2613674-14_424b4.htm",
+ "fy": [
+  {
+   "year": 2025,
+   "revenue": 258946.0,
+   "net_income": -112205.0
+  },
+  {
+   "year": 2026,
+   "revenue": 601321.0,
+   "net_income": 27465.0
+  }
+ ],
+ "ttm_revenue": 601321.0,
+ "ttm_net_income": 27465.0,
+ "chk": [
+  "price:not_found",
+  "shares:not_found"
+ ]
+}

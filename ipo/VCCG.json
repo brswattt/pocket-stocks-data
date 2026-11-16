@@ -1,0 +1,16 @@
+{
+ "ticker": "VCCG",
+ "name": "V Capital Consulting Group Ltd",
+ "cik": 2052443,
+ "form": "F-1/A",
+ "filed": "2026-09-03",
+ "accession": "0001213900-26-097031",
+ "url": "https://www.sec.gov/Archives/edgar/data/2052443/000121390026097031/ea0301818-f1a2_vcapital.htm",
+ "price_low": 4.0,
+ "price_high": 4.0,
+ "priced": true,
+ "chk": [
+  "shares:not_found",
+  "revenue:columns"
+ ]
+}

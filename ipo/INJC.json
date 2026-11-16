@@ -1,0 +1,14 @@
+{
+ "ticker": "INJC",
+ "name": "Canary Staked INJ ETF",
+ "cik": 2073616,
+ "form": "S-1/A",
+ "filed": "2026-11-02",
+ "accession": "0001999371-26-024117",
+ "url": "https://www.sec.gov/Archives/edgar/data/2073616/000199937126024117/inj-s1a_110226.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

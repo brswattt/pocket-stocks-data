@@ -1,0 +1,14 @@
+{
+ "ticker": "MFDB",
+ "name": "MFB Bancorp, Inc.",
+ "cik": 2152813,
+ "form": "S-1/A",
+ "filed": "2026-11-06",
+ "accession": "0001104659-26-123884",
+ "url": "https://www.sec.gov/Archives/edgar/data/2152813/000110465926123884/tm2624212-22_s1a.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

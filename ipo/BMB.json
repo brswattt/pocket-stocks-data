@@ -1,0 +1,23 @@
+{
+ "ticker": "BMB",
+ "name": "Bamboo Insurance Services, Inc.",
+ "cik": 2125355,
+ "form": "S-1/A",
+ "filed": "2026-09-14",
+ "accession": "0001628280-26-061664",
+ "url": "https://www.sec.gov/Archives/edgar/data/2125355/000162828026061664/bambooinsuranceservicesinc.htm",
+ "price_low": 18.0,
+ "price_high": 20.0,
+ "priced": false,
+ "shares_after": 156305057.0,
+ "fy": [
+  {
+   "year": 2026,
+   "revenue": 173398000.0,
+   "net_income": 13756000.0
+  }
+ ],
+ "ttm_revenue": 173398000.0,
+ "ttm_net_income": 13756000.0,
+ "chk": []
+}

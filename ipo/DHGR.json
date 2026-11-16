@@ -1,0 +1,14 @@
+{
+ "ticker": "DHGR",
+ "name": "Devonian Health Group Inc.",
+ "cik": 2000684,
+ "form": "F-1/A",
+ "filed": "2026-09-02",
+ "accession": "0001104659-26-104757",
+ "url": "https://www.sec.gov/Archives/edgar/data/2000684/000110465926104757/tm2523460-28_f1a.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "revenue:not_found"
+ ]
+}

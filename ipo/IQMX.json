@@ -1,0 +1,14 @@
+{
+ "ticker": "IQMX",
+ "name": "IQM Quantum Computers Oyj",
+ "cik": 2113060,
+ "form": "F-1/A",
+ "filed": "2026-08-18",
+ "accession": "0001193125-26-355643",
+ "url": "https://www.sec.gov/Archives/edgar/data/2113060/000119312526355643/d36013df1a.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

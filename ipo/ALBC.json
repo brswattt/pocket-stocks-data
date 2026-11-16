@@ -1,0 +1,14 @@
+{
+ "ticker": "ALBC",
+ "name": "Alternative Ballistics Corp",
+ "cik": 1834868,
+ "form": "S-1",
+ "filed": "2026-10-13",
+ "accession": "0001493152-26-046881",
+ "url": "https://www.sec.gov/Archives/edgar/data/1834868/000149315226046881/forms-1.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

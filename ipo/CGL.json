@@ -1,0 +1,14 @@
+{
+ "ticker": "CGL",
+ "name": "CGL Logistics Holdings Ltd",
+ "cik": 1934387,
+ "form": "F-1/A",
+ "filed": "2026-10-16",
+ "accession": "0001493152-26-047322",
+ "url": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226047322/formf-1a.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

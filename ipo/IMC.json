@@ -1,0 +1,14 @@
+{
+ "ticker": "IMC",
+ "name": "IMC Rare Earths Ltd",
+ "cik": 2098395,
+ "form": "F-1",
+ "filed": "2026-08-14",
+ "accession": "0001493152-26-038495",
+ "url": "https://www.sec.gov/Archives/edgar/data/2098395/000149315226038495/formf-1.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

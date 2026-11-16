@@ -1,0 +1,16 @@
+{
+ "ticker": "VVVV",
+ "name": "vVARDIS Holding AG",
+ "cik": 1907709,
+ "form": "424B4",
+ "filed": "2026-11-16",
+ "accession": "0001140361-26-043938",
+ "url": "https://www.sec.gov/Archives/edgar/data/1907709/000114036126043938/ny20076472x18_424b4.htm",
+ "price_low": 18.0,
+ "price_high": 18.0,
+ "priced": true,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

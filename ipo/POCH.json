@@ -1,0 +1,14 @@
+{
+ "ticker": "POCH",
+ "name": "POCHE TECHNOLOGY CO., Ltd",
+ "cik": 2085836,
+ "form": "F-1/A",
+ "filed": "2026-08-18",
+ "accession": "0001493152-26-038929",
+ "url": "https://www.sec.gov/Archives/edgar/data/2085836/000149315226038929/formf-1a.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

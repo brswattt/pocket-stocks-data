@@ -1,0 +1,16 @@
+{
+ "ticker": "KPL",
+ "name": "Kepler Group Ltd",
+ "cik": 2000208,
+ "form": "F-1/A",
+ "filed": "2026-08-24",
+ "accession": "0001493152-26-039800",
+ "url": "https://www.sec.gov/Archives/edgar/data/2000208/000149315226039800/formf-1a.htm",
+ "price_low": 6.0,
+ "price_high": 8.0,
+ "priced": false,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

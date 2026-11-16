@@ -1,0 +1,14 @@
+{
+ "ticker": "TIWD",
+ "name": "Timwood Holdings Ltd",
+ "cik": 2092291,
+ "form": "F-1/A",
+ "filed": "2026-10-30",
+ "accession": "0001185185-26-005095",
+ "url": "https://www.sec.gov/Archives/edgar/data/2092291/000118518526005095/timwoodf1a3101226.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

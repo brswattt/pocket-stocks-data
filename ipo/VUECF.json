@@ -1,0 +1,14 @@
+{
+ "ticker": "VUECF",
+ "name": "Verdera Energy Corp.",
+ "cik": 2111453,
+ "form": "424B4",
+ "filed": "2026-09-15",
+ "accession": "0001104659-26-107696",
+ "url": "https://www.sec.gov/Archives/edgar/data/2111453/000110465926107696/tm267430d16_424b4.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

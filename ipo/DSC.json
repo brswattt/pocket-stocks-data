@@ -1,0 +1,14 @@
+{
+ "ticker": "DSC",
+ "name": "DSC Holdings Ltd.",
+ "cik": 1966041,
+ "form": "424B4",
+ "filed": "2026-06-26",
+ "accession": "0001213900-26-072276",
+ "url": "https://www.sec.gov/Archives/edgar/data/1966041/000121390026072276/ea0200059-38.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "ticker": "FMSN",
+ "name": "Focus Media Network Ltd",
+ "cik": 2123920,
+ "form": "F-1/A",
+ "filed": "2026-11-09",
+ "accession": "0001213900-26-117373",
+ "url": "https://www.sec.gov/Archives/edgar/data/2123920/000121390026117373/ea0284557-09.htm",
+ "fy": [
+  {
+   "year": 2025,
+   "revenue": 2267156.0
+  },
+  {
+   "year": 2026,
+   "revenue": 4634587.0
+  }
+ ],
+ "ttm_revenue": 4634587.0,
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "net_income:columns"
+ ]
+}

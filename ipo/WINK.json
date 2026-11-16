@@ -1,0 +1,14 @@
+{
+ "ticker": "WINK",
+ "name": "Winklevoss Zcash ETF",
+ "cik": 2158471,
+ "form": "S-1",
+ "filed": "2026-10-06",
+ "accession": "0001104659-26-113940",
+ "url": "https://www.sec.gov/Archives/edgar/data/2158471/000110465926113940/tm2626975-1_s1.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}

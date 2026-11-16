@@ -1,0 +1,16 @@
+{
+ "ticker": "ISTL",
+ "name": "iStep Learning Ltd",
+ "cik": 2100713,
+ "form": "F-1",
+ "filed": "2026-10-19",
+ "accession": "0001213900-26-110742",
+ "url": "https://www.sec.gov/Archives/edgar/data/2100713/000121390026110742/ea0270298-12.htm",
+ "price_low": 4.0,
+ "price_high": 5.0,
+ "priced": false,
+ "chk": [
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}
