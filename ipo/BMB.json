@@ -2,6 +2,7 @@
  "ticker": "BMB",
  "name": "Bamboo Insurance Services, Inc.",
  "cik": 2125355,
+ "v": 2,
  "form": "S-1/A",
  "filed": "2026-09-14",
  "accession": "0001628280-26-061664",
@@ -19,5 +20,9 @@
  ],
  "ttm_revenue": 173398000.0,
  "ttm_net_income": 13756000.0,
+ "ocf_interim": {
+  "value": 52400000.0,
+  "months": 6
+ },
  "chk": []
 }

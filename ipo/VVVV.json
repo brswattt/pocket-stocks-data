@@ -2,6 +2,7 @@
  "ticker": "VVVV",
  "name": "vVARDIS Holding AG",
  "cik": 1907709,
+ "v": 2,
  "form": "424B4",
  "filed": "2026-11-16",
  "accession": "0001140361-26-043938",
@@ -9,6 +10,10 @@
  "price_low": 18.0,
  "price_high": 18.0,
  "priced": true,
+ "ocf_interim": {
+  "value": -16300000.0,
+  "months": 6
+ },
  "chk": [
   "shares:not_found",
   "summary:not_found"

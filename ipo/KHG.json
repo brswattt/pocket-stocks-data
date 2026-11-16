@@ -2,6 +2,7 @@
  "ticker": "KHG",
  "name": "Kainan Holding Group Ltd",
  "cik": 2120528,
+ "v": 2,
  "form": "F-1/A",
  "filed": "2026-10-09",
  "accession": "0001575872-26-000686",
@@ -24,6 +25,7 @@
   }
  ],
  "ttm_revenue": 26700543.0,
+ "ttm_operating_income": 2010323.0,
  "chk": [
   "shares:not_found",
   "net_income:columns"

@@ -2,6 +2,7 @@
  "ticker": "BSP",
  "name": "Bending Spoons S.p.A.",
  "cik": 2004711,
+ "v": 2,
  "form": "424B4",
  "filed": "2026-07-01",
  "accession": "0001104659-26-079884",
@@ -20,6 +21,7 @@
  ],
  "ttm_revenue": 601321.0,
  "ttm_net_income": 27465.0,
+ "ttm_operating_income": 120171.0,
  "chk": [
   "price:not_found",
   "shares:not_found"

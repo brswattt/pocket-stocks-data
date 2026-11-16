@@ -2,6 +2,7 @@
  "ticker": "ANT",
  "name": "Anthropic, PBC",
  "cik": 2130357,
+ "v": 2,
  "form": "S-1/A",
  "filed": "2026-11-10",
  "accession": "0001628280-26-072484",
@@ -33,10 +34,17 @@
   "revenue": 33242000000.0,
   "revenue_prior": 2545000000.0,
   "net_income": -104039000000.0,
-  "net_income_prior": -25107000000.0
+  "net_income_prior": -25107000000.0,
+  "operating_income": -1260000000.0,
+  "operating_income_prior": -5224000000.0
  },
  "ttm_revenue": 35282000000.0,
  "ttm_net_income": -120897000000.0,
+ "ttm_operating_income": -4096000000.0,
+ "ocf_interim": {
+  "value": 6600000000.0,
+  "months": 9
+ },
  "run_rate": {
   "value": 81000000000.0,
   "as_of": "2026-10-31"

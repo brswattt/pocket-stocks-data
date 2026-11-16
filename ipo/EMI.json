@@ -2,14 +2,15 @@
  "ticker": "EMI",
  "name": "Encore Medical, Inc.",
  "cik": 1838003,
+ "v": 2,
  "form": "S-1/A",
- "filed": "2026-09-28",
- "accession": "0001104659-26-111104",
- "url": "https://www.sec.gov/Archives/edgar/data/1838003/000110465926111104/tm2525595-30_s1a.htm",
+ "filed": "2026-11-16",
+ "accession": "0001104659-26-128582",
+ "url": "https://www.sec.gov/Archives/edgar/data/1838003/000110465926128582/tm2525595-32_s1a.htm",
  "price_low": 5.0,
  "price_high": 5.0,
  "priced": true,
- "shares_after": 6743425.0,
+ "shares_after": 7793425.0,
  "chk": [
   "summary:not_found"
  ]

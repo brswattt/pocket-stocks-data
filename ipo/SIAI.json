@@ -2,6 +2,7 @@
  "ticker": "SIAI",
  "name": "Silentium Ltd.",
  "cik": 2112466,
+ "v": 2,
  "form": "F-1/A",
  "filed": "2026-10-06",
  "accession": "0001104659-26-113834",
@@ -23,9 +24,12 @@
   "months": 6,
   "year": 2026,
   "revenue": 1537000.0,
-  "revenue_prior": 2754000.0
+  "revenue_prior": 2754000.0,
+  "operating_income": -2316000.0,
+  "operating_income_prior": -1736000.0
  },
  "ttm_revenue": 2732000.0,
+ "ttm_operating_income": -4927000.0,
  "chk": [
   "shares:not_found",
   "net_income:columns"

@@ -2,6 +2,7 @@
  "ticker": "TRCX",
  "name": "Tracx Logis Ltd.",
  "cik": 2114145,
+ "v": 2,
  "form": "F-1/A",
  "filed": "2026-11-03",
  "accession": "0001213900-26-115596",
@@ -20,6 +21,7 @@
   }
  ],
  "ttm_revenue": 20185437.0,
+ "ttm_operating_income": -12929832.0,
  "chk": [
   "shares:not_found",
   "net_income:columns"

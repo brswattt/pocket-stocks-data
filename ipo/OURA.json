@@ -2,6 +2,7 @@
  "ticker": "OURA",
  "name": "Oura Inc.",
  "cik": 2133022,
+ "v": 2,
  "form": "S-1/A",
  "filed": "2026-09-21",
  "accession": "0001193125-26-396051",
@@ -28,9 +29,15 @@
   "revenue": 1214506000.0,
   "revenue_prior": 697569000.0,
   "net_income": 60768000.0,
-  "net_income_prior": 1573000.0
+  "net_income_prior": 1573000.0,
+  "operating_income": 71188000.0,
+  "operating_income_prior": 60265000.0,
+  "operating_cash_flow": 328008000.0,
+  "operating_cash_flow_prior": 135315000.0
  },
  "ttm_revenue": 1424793000.0,
  "ttm_net_income": 59207000.0,
+ "ttm_operating_income": 56255000.0,
+ "ttm_operating_cash_flow": 314386000.0,
  "chk": []
 }
