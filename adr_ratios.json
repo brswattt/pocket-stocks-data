@@ -2247,6 +2247,19 @@
 "src": "20-F 2026-03-30",
 "v": 3
 },
+"1355736": {
+"checked": "2026-11-18",
+"cover": {
+"class_a": null,
+"filed": "2026-11-06",
+"how": "xbrl",
+"period": "2025-12-31",
+"shares": 101289664
+},
+"ratio": 1.0,
+"src": "20-F 2026-11-06: no ADS mentioned",
+"v": 3
+},
 "1359519": {
 "checked": "2026-11-11",
 "cover": null,
@@ -13595,6 +13608,13 @@
 "src": "no 20-F/40-F found",
 "v": 3
 },
+"2138686": {
+"checked": "2026-11-18",
+"cover": null,
+"ratio": null,
+"src": "no 20-F/40-F found",
+"v": 3
+},
 "2139482": {
 "checked": "2026-11-11",
 "cover": null,
@@ -13667,6 +13687,13 @@
 },
 "2158201": {
 "checked": "2026-11-11",
+"cover": null,
+"ratio": null,
+"src": "no 20-F/40-F found",
+"v": 3
+},
+"2163910": {
+"checked": "2026-11-18",
 "cover": null,
 "ratio": null,
 "src": "no 20-F/40-F found",
