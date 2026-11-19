@@ -1,0 +1,15 @@
+{
+ "ticker": "EUEV",
+ "name": "EUROEV Holdings Ltd",
+ "cik": 2048740,
+ "v": 2,
+ "form": "F-1/A",
+ "filed": "2026-11-18",
+ "accession": "0001213900-26-121800",
+ "url": "https://www.sec.gov/Archives/edgar/data/2048740/000121390026121800/ea0312709-f1a1_euroev.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "summary:not_found"
+ ]
+}
