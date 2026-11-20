@@ -4,12 +4,12 @@
  "cik": 2133037,
  "v": 2,
  "form": "S-1/A",
- "filed": "2026-09-21",
- "accession": "0001628280-26-062846",
- "url": "https://www.sec.gov/Archives/edgar/data/2133037/000162828026062846/sbenergy-sx1a2.htm",
+ "filed": "2026-11-19",
+ "accession": "0001628280-26-075026",
+ "url": "https://www.sec.gov/Archives/edgar/data/2133037/000162828026075026/sbenergy-sx1a3.htm",
  "ocf_interim": {
-  "value": -55600000.0,
-  "months": 6
+  "value": -77400000.0,
+  "months": 9
  },
  "chk": [
   "price:not_found",
