@@ -1,0 +1,15 @@
+{
+ "ticker": "BCRP",
+ "name": "Biointra, Corp",
+ "cik": 2053365,
+ "v": 2,
+ "form": "S-1",
+ "filed": "2026-11-23",
+ "accession": "0002053365-26-000010",
+ "url": "https://www.sec.gov/Archives/edgar/data/2053365/000205336526000010/biointra_forms-1_nov20.htm",
+ "chk": [
+  "price:not_found",
+  "shares:not_found",
+  "revenue:columns"
+ ]
+}
