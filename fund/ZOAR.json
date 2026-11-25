@@ -1,1 +1,1 @@
-{"annual":{"fcf":[[2025,-187000]],"net_income":[[2025,62703000],[2026,77670000]],"revenue":[[2025,556407000],[2026,651725000]]},"book_per_share":-88276.0,"fb":["net_margin"],"net_margin":11.9176,"src":"sec","years_dividends":0}
+{"annual":{"fcf":[[2025,-187000]],"net_income":[[2024,51070000],[2025,62703000],[2026,77670000]],"revenue":[[2024,440206000],[2025,556407000],[2026,651725000]]},"book_per_share":-88276.0,"chk":["book_per_share"],"eps":0.43,"fb":["net_margin","roe","eps"],"net_margin":11.9176,"roe":20.6238,"src":"sec","years_dividends":0}
